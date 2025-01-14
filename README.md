@@ -33,12 +33,6 @@ Responsive Design: Ensures the website adapts to various screen sizes.
 Installation Instructions
 Clone the Repository
 Use the following command to clone the project to your local machine:
-
-bash
-Copy code
-git clone https://github.com/yourusername/the-city-school-replica.git
-Navigate to the project folder
-
 bash
 Copy code
 cd the-city-school-replica
